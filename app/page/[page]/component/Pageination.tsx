@@ -65,8 +65,8 @@ export default function Pageination({
   };
 
   return (
-    <div className="fixed bottom-0 left-0 w-full flex items-center justify-between border-t border-gray-200 bg-white px-4 py-3 sm:px-6">
-      <div className=" sm:flex sm:flex-1 sm:items-center sm:justify-between">
+    <div className="fixed bottom-0 left-0 w-full flex items-center justify-center border-t border-gray-200 bg-white px-4 py-3 sm:px-6">
+      <div className=" flex items-center justify-between">
         <div>
           <nav
             className="isolate inline-flex -space-x-px rounded-md shadow-sm"
